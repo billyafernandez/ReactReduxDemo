@@ -26,7 +26,7 @@ const CharacterList = ({characters, filter}) => {
 
     filteredCharacters = filteredCharacters
     .map(character => 
-    <CharacterListRow key={character.id} character={character} />)
+    <CharacterListRow key={character.id} character={character} />);
 
     return (
         <table className="table">
@@ -41,7 +41,7 @@ const CharacterList = ({characters, filter}) => {
                 </tr>
             </thead>
             <tbody>
-            { filteredCharacters }
+                {filteredCharacters}
             </tbody>
         </table>
     );

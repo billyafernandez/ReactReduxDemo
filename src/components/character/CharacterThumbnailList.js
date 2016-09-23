@@ -26,12 +26,12 @@ const CharacterThumbnailList = ({characters, filter}) => {
     
     filteredCharacters = filteredCharacters
     .map(character => 
-    <CharacterThumbnailItem key={character.id} character={character} />)
+    <CharacterThumbnailItem key={character.id} character={character} />);
 
     return (
         <div className="browse-results-wrapper">
             <ul>
-                { filteredCharacters }
+                {filteredCharacters}
             </ul>
         </div>
     );
