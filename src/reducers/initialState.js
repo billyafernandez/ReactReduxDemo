@@ -1,0 +1,4 @@
+export default {
+    companies: [],
+    characters: []
+};
