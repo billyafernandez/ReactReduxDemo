@@ -7,3 +7,6 @@ A React and Redux simple demo app
 4. **Install Node Packages.** - `npm install`
 5. **Run the app.** - `npm start -s`
 
+## [Demo](http://reactreduxdemo.cursosdecomputacion.net/)
+
+![React Redux Demo](http://reactreduxdemo.cursosdecomputacion.net/ReactReduxDemo.png)
