@@ -9,4 +9,5 @@ A React and Redux simple demo app
 
 ## [Demo](http://reactreduxdemo.cursosdecomputacion.net/)
 
-![React Redux Demo](http://reactreduxdemo.cursosdecomputacion.net/ReactReduxDemo.png)
+[![React Redux Demo](http://reactreduxdemo.cursosdecomputacion.net/ReactReduxDemo.png)](http://reactreduxdemo.cursosdecomputacion.net/)
+
